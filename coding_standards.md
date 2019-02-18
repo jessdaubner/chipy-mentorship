@@ -43,7 +43,7 @@ Namespaces are one honking great idea -- let's do more of those!
 Tools like [`flake8`](https://github.com/PyCQA/flake8) and [`pylint`](https://github.com/PyCQA/pylint) will notify you when your code has programming errors before runtime and also points out when you've deviated from PEP-8 conventions.
 
 ### Docstrings
-Docstrings are strings that occur as the first statements in a file (module), function, method, or class and provide useful document of that object.
+Docstrings are strings that occur as the first statements in a file (module), function, method, or class and provide useful documentation of that object.
 They begin with a triple quote (e.g. `'''` or `"""`) and are accessible via the `__doc__` special attribute of that object. It's a good practice to
 document all modules, functions, methods, and classes. Your collaborators and/or future self with thank you!
 

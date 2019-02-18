@@ -2,8 +2,6 @@
 
 ## Github
 
-### Learning Git Commands
-
 ### Using Github at the Command Line
 Install the Git command line interace (CLI).
 1. On MacOS, use [Homebrew](https://brew.sh/) to install Git:
