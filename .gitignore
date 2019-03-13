@@ -1,0 +1,2 @@
+# Do not save Jupyter notebook checkpoints to Github
+*.ipynb_checkpoints
